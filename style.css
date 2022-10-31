@@ -1,0 +1,5 @@
+@import url("bootstrap.min.css");
+input[type="submit"]{
+    display: block;
+    width: 100%;
+}
